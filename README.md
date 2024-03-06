@@ -1,1 +1,1 @@
-# bookbot
+This is the Bookbot app.
