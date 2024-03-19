@@ -39,8 +39,7 @@ def list_of_dicts(dict):
     return list_of_dict
    
 
-def sort_on(dict):
-    return dict["num"]
+
 
 
 main()
